@@ -46,9 +46,8 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de aprender e cr
 
 ## 🌍 Conecte-se Comigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/joaofelipe007/)
-- 🌐 [Portfólio](https://joaofelipe007.dev) *(se aplicável)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-felipe-de-paula-silva-62b472240/)
 
 ---
 
-🎯 **"A melhor maneira de prever o futuro é criá-lo."**
+🎯 **"Um trabalho te dá um propósito e um significado. A vida é vazia sem ambos.”- Stephen Hawking**
